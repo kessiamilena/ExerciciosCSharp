@@ -145,9 +145,9 @@ class Program
 
 
         Console.Write("Digite uma opção: (A, B ou C): ");
-        string opcao = Console.ReadLine().ToUpper();
+        string escolha = Console.ReadLine().ToUpper();
 
-        switch(opcao)
+        switch(escolha)
         {
             case "A":
                 Console.WriteLine("Você escolheu a opção A.");
@@ -162,6 +162,8 @@ class Program
                 Console.WriteLine("Opção inválida");
                 break;
         }
+
+        Console.WriteLine("Olá!");
 
 
     }
