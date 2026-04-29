@@ -144,28 +144,27 @@ class Program
         // }
 
 
-        Console.Write("Digite uma opção: (A, B ou C): ");
-        string escolha = Console.ReadLine().ToUpper();
+        // Console.Write("Digite uma opção: (A, B ou C): ");
+        // string escolha = Console.ReadLine().ToUpper();
 
-        switch(escolha)
-        {
-            case "A":
-                Console.WriteLine("Você escolheu a opção A.");
-                break;
-            case "B":
-                Console.WriteLine("Você escolheu a opção B.");
-                break;
-            case "C":
-                Console.WriteLine("Você escolheu a opção C.");
-                break;
-            default:
-                Console.WriteLine("Opção inválida");
-                break;
-        }
+        // switch(escolha)
+        // {
+        //     case "A":
+        //         Console.WriteLine("Você escolheu a opção A.");
+        //         break;
+        //     case "B":
+        //         Console.WriteLine("Você escolheu a opção B.");
+        //         break;
+        //     case "C":
+        //         Console.WriteLine("Você escolheu a opção C.");
+        //         break;
+        //     default:
+        //         Console.WriteLine("Opção inválida");
+        //         break;
+        // }
 
         // Console.WriteLine("Olá!");
         //teste
-
 
     }
 }

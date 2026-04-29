@@ -12,3 +12,4 @@ C:\Users\Senaisp\Desktop\Exercicios CSharp\Condicionais\obj\Debug\net10.0\refint
 C:\Users\Senaisp\Desktop\Exercicios CSharp\Condicionais\obj\Debug\net10.0\Condicionais.pdb
 C:\Users\Senaisp\Desktop\Exercicios CSharp\Condicionais\obj\Debug\net10.0\Condicionais.genruntimeconfig.cache
 C:\Users\Senaisp\Desktop\Exercicios CSharp\Condicionais\obj\Debug\net10.0\ref\Condicionais.dll
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Condicionais\obj\Debug\net10.0\Condicionais.sourcelink.json

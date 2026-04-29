@@ -1,0 +1,15 @@
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\bin\Debug\net10.0\Resolução Condicionais.exe
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\bin\Debug\net10.0\Resolução Condicionais.deps.json
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\bin\Debug\net10.0\Resolução Condicionais.runtimeconfig.json
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\bin\Debug\net10.0\Resolução Condicionais.dll
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\bin\Debug\net10.0\Resolução Condicionais.pdb
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\obj\Debug\net10.0\Resolução Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\obj\Debug\net10.0\Resolução Condicionais.AssemblyInfoInputs.cache
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\obj\Debug\net10.0\Resolução Condicionais.AssemblyInfo.cs
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\obj\Debug\net10.0\Resolução Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\obj\Debug\net10.0\Resolução Condicionais.sourcelink.json
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\obj\Debug\net10.0\Resolução Condicionais.dll
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\obj\Debug\net10.0\refint\Resolução Condicionais.dll
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\obj\Debug\net10.0\Resolução Condicionais.pdb
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\obj\Debug\net10.0\Resolução Condicionais.genruntimeconfig.cache
+C:\Users\Senaisp\Desktop\Exercicios CSharp\Resolução de Excercícios\Resolução Condicionais\obj\Debug\net10.0\ref\Resolução Condicionais.dll
