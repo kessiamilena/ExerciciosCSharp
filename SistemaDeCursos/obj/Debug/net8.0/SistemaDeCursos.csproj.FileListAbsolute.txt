@@ -1,0 +1,15 @@
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\bin\Debug\net8.0\SistemaDeCursos.exe
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\bin\Debug\net8.0\SistemaDeCursos.deps.json
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\bin\Debug\net8.0\SistemaDeCursos.runtimeconfig.json
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\bin\Debug\net8.0\SistemaDeCursos.dll
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\bin\Debug\net8.0\SistemaDeCursos.pdb
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.AssemblyInfoInputs.cache
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.AssemblyInfo.cs
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.csproj.CoreCompileInputs.cache
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.sourcelink.json
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.dll
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\obj\Debug\net8.0\refint\SistemaDeCursos.dll
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.pdb
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.genruntimeconfig.cache
+C:\Users\Senaisp\Desktop\Exercicios CSharp\SistemaDeCursos\obj\Debug\net8.0\ref\SistemaDeCursos.dll
