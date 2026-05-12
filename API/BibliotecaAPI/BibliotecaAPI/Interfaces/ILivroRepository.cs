@@ -11,5 +11,10 @@ namespace BibliotecaAPI.Interfaces
         Livro? BuscarPorId(int id);
 
         Livro Adicionar(Livro livro);
+
+        bool Atualizar(int id, Livro livro);
+
+        bool Remover(int id);
+
     }
 }
